@@ -1,0 +1,73 @@
+{
+  "itemId" : "_mXBAoNtQEeyiX-9gWNXa4g",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_fEc9gNtGEeyiX-9gWNXa4g",
+    "parameterList" : [ {
+      "id" : "_fEq_8dtGEeyiX-9gWNXa4g",
+      "name" : "postgres_connection_Password"
+    }, {
+      "id" : "_fEq_8ttGEeyiX-9gWNXa4g",
+      "name" : "postgres_connection_Port"
+    }, {
+      "id" : "_fEq_89tGEeyiX-9gWNXa4g",
+      "name" : "postgres_connection_Schema"
+    }, {
+      "id" : "_fEq_9NtGEeyiX-9gWNXa4g",
+      "name" : "postgres_connection_AdditionalParams"
+    }, {
+      "id" : "_fEq_9dtGEeyiX-9gWNXa4g",
+      "name" : "postgres_connection_Login"
+    }, {
+      "id" : "_fEq_9ttGEeyiX-9gWNXa4g",
+      "name" : "postgres_connection_Database"
+    }, {
+      "id" : "_fEq_99tGEeyiX-9gWNXa4g",
+      "name" : "postgres_connection_Server"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_t03c0NtREeyiX-9gWNXa4g",
+    "parameterList" : [ {
+      "id" : "_t0-KgttREeyiX-9gWNXa4g",
+      "name" : "sales_data_FieldSeparator"
+    }, {
+      "id" : "_t0-KhdtREeyiX-9gWNXa4g",
+      "name" : "sales_data_Encoding"
+    }, {
+      "id" : "_t0-KhNtREeyiX-9gWNXa4g",
+      "name" : "sales_data_File"
+    }, {
+      "id" : "_t0-Kg9tREeyiX-9gWNXa4g",
+      "name" : "sales_data_RowSeparator"
+    }, {
+      "id" : "_t0-KgdtREeyiX-9gWNXa4g",
+      "name" : "sales_data_Header"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_Nlx-ANuEEey39-1nAUBFTA",
+    "parameterList" : [ {
+      "id" : "_Nl7vBduEEey39-1nAUBFTA",
+      "name" : "postgres_connection1_Password"
+    }, {
+      "id" : "_Nl7vAtuEEey39-1nAUBFTA",
+      "name" : "postgres_connection1_Schema"
+    }, {
+      "id" : "_Nl7vA9uEEey39-1nAUBFTA",
+      "name" : "postgres_connection1_Server"
+    }, {
+      "id" : "_Nl7vB9uEEey39-1nAUBFTA",
+      "name" : "postgres_connection1_Database"
+    }, {
+      "id" : "_Nl7vAduEEey39-1nAUBFTA",
+      "name" : "postgres_connection1_Port"
+    }, {
+      "id" : "_Nl7vBtuEEey39-1nAUBFTA",
+      "name" : "postgres_connection1_AdditionalParams"
+    }, {
+      "id" : "_Nl7vBNuEEey39-1nAUBFTA",
+      "name" : "postgres_connection1_Login"
+    } ]
+  } ]
+}

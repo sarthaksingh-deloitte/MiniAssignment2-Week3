@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_fEq_8NtGEeyiX-9gWNXa4g" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_fEq_8dtGEeyiX-9gWNXa4g" comment="" name="postgres_connection_Password" prompt="postgres_connection_Password?" promptNeeded="false" repositoryContextId="" type="id_Password" value="enc:system.encryption.key.v1:zX25KVOD24ysqM/dfpYtxHxrHG1xl/ouS+zoEoqA3XpFMEAfmKJ9Pn1eQ1wy6GbODcEjrX5FV66H+0WJ"/>
+  <contextParameter xmi:id="_fEq_8ttGEeyiX-9gWNXa4g" comment="" name="postgres_connection_Port" prompt="postgres_connection_Port?" promptNeeded="false" repositoryContextId="" type="id_String" value="5432"/>
+  <contextParameter xmi:id="_fEq_89tGEeyiX-9gWNXa4g" comment="" name="postgres_connection_Schema" prompt="postgres_connection_Schema?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_fEq_9NtGEeyiX-9gWNXa4g" comment="" name="postgres_connection_AdditionalParams" prompt="postgres_connection_AdditionalParams?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_fEq_9dtGEeyiX-9gWNXa4g" comment="" name="postgres_connection_Login" prompt="postgres_connection_Login?" promptNeeded="false" repositoryContextId="" type="id_String" value="hudjqujv"/>
+  <contextParameter xmi:id="_fEq_9ttGEeyiX-9gWNXa4g" comment="" name="postgres_connection_Database" prompt="postgres_connection_Database?" promptNeeded="false" repositoryContextId="" type="id_String" value="hudjqujv"/>
+  <contextParameter xmi:id="_fEq_99tGEeyiX-9gWNXa4g" comment="" name="postgres_connection_Server" prompt="postgres_connection_Server?" promptNeeded="false" repositoryContextId="" type="id_String" value="drona.db.elephantsql.com"/>
+</talendfile:ContextType>
